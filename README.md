@@ -1,0 +1,2 @@
+# Dual-issue-Pipelined-Multimedia-Processor-Architecture-
+Developed a Dual-issue Pipelined Multimedia Processor based on SONY Cell SIMD ISA with 2 block direct mapped cache. • The functional design was created in System Verilog and parser script in PERL that converts Assembly language to 32 bit of instructions. • Successfully detected and resolved all the hazards like Data Hazards (RAW &amp; WAW), Structural Hazards and Control hazards
